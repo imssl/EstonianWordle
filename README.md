@@ -1,4 +1,4 @@
-pip install requests BeautifulSoup
+* pip install requests BeautifulSoup
 
 Estonian Wordle game currently only playable through terminal.
 
