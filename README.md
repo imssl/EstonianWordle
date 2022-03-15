@@ -10,4 +10,4 @@ for e.g. remove line if string has an uppercase letter as a first letter)
 
 ## python3 Game.py
 
-Start the game. Verify input of the user is actually a real Estonian word through an Estonian dictionary using "requests" and "BeautifulSoup".  
+Start the game. Verify input of the user is actually a real Estonian word through an Online Estonian dictionary using "requests" and "BeautifulSoup".  
